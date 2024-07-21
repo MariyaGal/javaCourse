@@ -1,0 +1,12 @@
+basics\BaseTest.class
+basics\TestsLifecycle.class
+basics\BasicsTest.class
+basics\Pistol\PistolShotTests.class
+home\StringHelperTest.class
+home\TestStringHelper.class
+basics\AssertionsTest.class
+home\StringHelper.class
+basics\testStatuses.class
+basics\Pistol\PistolShotTest1.class
+basics\Pistol\PistolShotTest2.class
+basics\ParametrizedTest.class
